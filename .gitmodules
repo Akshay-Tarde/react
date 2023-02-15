@@ -1,0 +1,3 @@
+[submodule "react-facts"]
+	path = react-facts
+	url = https://github.com/Akshay-Tarde/react-facts.git
