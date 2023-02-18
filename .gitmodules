@@ -4,3 +4,6 @@
 [submodule "digital-business-card"]
 	path = digital-business-card
 	url = https://github.com/Akshay-Tarde/digital-business-card.git
+[submodule "airbnb-clone"]
+	path = airbnb-clone
+	url = https://github.com/Akshay-Tarde/airbnb-clone.git
