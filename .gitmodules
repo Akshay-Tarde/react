@@ -7,3 +7,6 @@
 [submodule "airbnb-clone"]
 	path = airbnb-clone
 	url = https://github.com/Akshay-Tarde/airbnb-clone.git
+[submodule "meme-generator"]
+	path = meme-generator
+	url = https://github.com/Akshay-Tarde/meme-generator.git
