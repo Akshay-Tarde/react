@@ -10,3 +10,9 @@
 [submodule "meme-generator"]
 	path = meme-generator
 	url = https://github.com/Akshay-Tarde/meme-generator.git
+[submodule "chef-claude"]
+	path = chef-claude
+	url = https://github.com/Akshay-Tarde/chef-claude.git
+[submodule "travel-journal"]
+	path = travel-journal
+	url = ./travel-journal
